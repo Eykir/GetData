@@ -90,6 +90,6 @@ labels2[1] <- names(subset_data2)[1]
 labels2[length(labels2)] <- names(subset_data2)[length(subset_data2)]
 names(subject_averages) <- labels2
 
-# Outputing final two datasets.
-write.table(subset_data2, file = "Final_Data.txt", row.name = FALSE)
+# Outputing final datasets.
+# write.table(subset_data2, file = "Final_Data.txt", row.name = FALSE)
 write.table(subject_averages, file = "Subject_Averages.txt", row.name = FALSE)
