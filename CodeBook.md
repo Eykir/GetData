@@ -274,7 +274,8 @@ fBodyBodyGyroJerkMag_std
 
 Activity_Type
 
-	Character variable for the activity type with 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.
+	Character variable for the activity type with 6 levels: WALKING, WALKING_UPSTAIRS, 
+	WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.
 
 ##Subject_Averages.txt##
 
@@ -550,4 +551,5 @@ mean_fBodyBodyGyroJerkMag_std
 
 Activity_Type
 
-	Character variable for the activity type with 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.
+	Character variable for the activity type with 6 levels: WALKING, WALKING_UPSTAIRS, 
+	WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.
